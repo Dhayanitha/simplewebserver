@@ -57,5 +57,8 @@ httpd.serve_forever()
 ## OUTPUT:
 ![output](./static/img/page23.jpg)
 
+## CODE VALIDATION REPORT:
+![output](./static/img/report14.jpg)
+
 ## RESULT:
-Thus a website is designed for the chip manufacturing company and is hosted in the URL http://dhayanitha.student.saveetha.in/. HTML code is validated.
+Thus a website is designed for the simplewebserver and is hosted in the URL http://dhayanitha.student.saveetha.in/. HTML code is validated.
